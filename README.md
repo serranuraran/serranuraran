@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: ...
 -->
-
-[![Lınkedın Badge](https://img.shields.io/badge/-Lınkedın-C13584?style=flat-quare&labelColor=C13584&logo=lınkedın&logoColor=white&link=link)]([link](https://www.linkedin.com/in/serranur-aran-02bb40206/)) 
+[![Lınkedın](https://[badgen.net/badge](https://www.linkedin.com/in/serranur-aran-02bb40206/)/icon/lınkedın?icon=lınkedın&label)](https://lınkedın.com) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=serranuraran&show_icons=true&theme=radical)
