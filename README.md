@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=serranuraran&show_icons=true&theme=radical)
+
+
+[![Serra's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serranuraran&theme=blue-green)](https://github.com/serranuraran/github-readme-stats)
