@@ -17,11 +17,3 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serranurarann/  )
 [![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://serranuraran@gmail.com)
-
-
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=serranuraran&show_icons=true&theme=radical)
-
-
-[![Serra's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serranuraran&theme=blue-green)](https://github.com/serranuraran/github-readme-stats)
